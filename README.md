@@ -26,80 +26,80 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 
 # DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD:
 
-## * Normativa de seguridad privada.
+# * Normativa de seguridad privada.
 
 ### Legislación consolidada: Constitución. 
-https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
-https://www.boe.es/buscar/pdf/1978/BOE-A-1978-31229-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
+* https://www.boe.es/buscar/pdf/1978/BOE-A-1978-31229-consolidado.pdf
 
 ### Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco.
-https://www.boe.es/buscar/act.php?id=BOE-A-1979-30177
-https://www.boe.es/buscar/pdf/1979/BOE-A-1979-30177-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-1979-30177
+* https://www.boe.es/buscar/pdf/1979/BOE-A-1979-30177-consolidado.pdf
 
 ### Unión Europea.
-https://europa.eu/
+* https://europa.eu/
 
 ### Disposición derogada: Ley 23/1992, de 30 de julio, de Seguridad Privada
-https://boe.es/buscar/act.php?id=BOE-A-1992-18489
-https://www.boe.es/buscar/pdf/1992/BOE-A-1992-18489-consolidado.pdf
+* https://boe.es/buscar/act.php?id=BOE-A-1992-18489
+* https://www.boe.es/buscar/pdf/1992/BOE-A-1992-18489-consolidado.pdf
 
 ### Ley 5/2014, de 4 de abril, de Seguridad Privada.
-https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
-https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
+* https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
 
 
-## * Seguridad física.
+# * Seguridad física.
 
 ### Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana.
-https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442
-https://www.boe.es/buscar/pdf/2015/BOE-A-2015-3442-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442
+* https://www.boe.es/buscar/pdf/2015/BOE-A-2015-3442-consolidado.pdf
 
 ### Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
-https://boe.es/buscar/act.php?id=BOE-A-1986-6859
-https://boe.es/buscar/pdf/1986/BOE-A-1986-6859-consolidado.pdf
+* https://boe.es/buscar/act.php?id=BOE-A-1986-6859
+* https://boe.es/buscar/pdf/1986/BOE-A-1986-6859-consolidado.pdf
 
 ### Real Decreto 137/1993, de 29 de enero, por el que se aprueba el Reglamento de Armas.
-https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202
-https://www.boe.es/buscar/pdf/1993/BOE-A-1993-6202-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-1993-6202
+* https://www.boe.es/buscar/pdf/1993/BOE-A-1993-6202-consolidado.pdf
 
 
 ### Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal
-https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444
-https://www.boe.es/buscar/pdf/1995/BOE-A-1995-25444-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444
+* https://www.boe.es/buscar/pdf/1995/BOE-A-1995-25444-consolidado.pdf
 
 ### Ley Orgánica 1/2015, de 30 de marzo, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
-https://www.boe.es/buscar/act.php?id=BOE-A-2015-3439
-https://www.boe.es/buscar/pdf/2015/BOE-A-2015-3439-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-2015-3439
+* https://www.boe.es/buscar/pdf/2015/BOE-A-2015-3439-consolidado.pdf
 
 ### Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal.
-https://boe.es/buscar/act.php?id=BOE-A-1882-6036
-https://boe.es/buscar/pdf/1882/BOE-A-1882-6036-consolidado.pdf
+* https://boe.es/buscar/act.php?id=BOE-A-1882-6036
+* https://boe.es/buscar/pdf/1882/BOE-A-1882-6036-consolidado.pdf
 
 
-* Seguridad lógica.
+# * Seguridad lógica.
 
 ### ISO/IEC 27000-series
-https://es.wikipedia.org/wiki/ISO/IEC_27000-series
-https://en.wikipedia.org/wiki/ISO/IEC_27000-series
+* https://es.wikipedia.org/wiki/ISO/IEC_27000-series
+* https://en.wikipedia.org/wiki/ISO/IEC_27000-series
 
 
 ### CCN-STIC
-https://www.ccn-cert.cni.es/guias.html
+* https://www.ccn-cert.cni.es/guias.html
 
 ### La Serie CCN-STIC-400 (Guías generales)
-https://www.ccn-cert.cni.es/guias/guias-series-ccn-stic/400-guias-generales.html
+* https://www.ccn-cert.cni.es/guias/guias-series-ccn-stic/400-guias-generales.html
 
 ### La Serie CCN-STIC-600 (Guías de otros entornos) 
-https://www.ccn-cert.cni.es/guias/guias-series-ccn-stic/600-guias-de-otros-entornos.html
+* https://www.ccn-cert.cni.es/guias/guias-series-ccn-stic/600-guias-de-otros-entornos.html
 
 ### La Serie CCN-STIC-800 (Guías Esquema Nacional de Seguridad) RD 3/2010.
-https://www.ccn-cert.cni.es/guias/guias-series-ccn-stic/800-guia-esquema-nacional-de-seguridad.html
+* https://www.ccn-cert.cni.es/guias/guias-series-ccn-stic/800-guia-esquema-nacional-de-seguridad.html
 
 
 
 ### Ley 8/2011, de 28 de abril, por la que se establecen medidas para la protección de las infraestructuras críticas.
-https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630
-https://www.boe.es/buscar/pdf/2011/BOE-A-2011-7630-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-7630-consolidado.pdf
 
 
 * Seguridad en entidades de crédito.
