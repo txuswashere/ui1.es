@@ -49,11 +49,11 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
 
 ### Código de Seguridad Privada
-https://www.boe.es/legislacion/codigos/codigo.php?id=058_Codigo_de_Seguridad_Privada
-https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=058_Codigo_de_Seguridad_Privada.pdf
+* https://www.boe.es/legislacion/codigos/codigo.php?id=058_Codigo_de_Seguridad_Privada
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=058_Codigo_de_Seguridad_Privada.pdf
 
 #### Código de Seguridad Privada
-https://www.boe.es/legislacion/codigos/codigo.php?id=58&modo=1&nota=0&tab=2
+* https://www.boe.es/legislacion/codigos/codigo.php?id=58&modo=1&nota=0&tab=2
 * NORMAS GENERALES
     - Ley de Seguridad Privada
     - Reglamento de Seguridad Privada
