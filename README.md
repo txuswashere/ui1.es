@@ -28,9 +28,10 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 
 # **Normativa de seguridad privada**.
 
-### Legislación consolidada: Constitución. 
+### Legislación consolidada: Constitución Española. 
 * https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
 * https://www.boe.es/buscar/pdf/1978/BOE-A-1978-31229-consolidado.pdf
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=151_Constitucion_Espanola.pdf
 
 ### Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco.
 * https://www.boe.es/buscar/act.php?id=BOE-A-1979-30177
@@ -46,6 +47,39 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 ### Ley 5/2014, de 4 de abril, de **Seguridad Privada**.
 * https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
 * https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+
+### Código de Seguridad Privada
+https://www.boe.es/legislacion/codigos/codigo.php?id=058_Codigo_de_Seguridad_Privada
+https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=058_Codigo_de_Seguridad_Privada.pdf
+
+#### Código de Seguridad Privada
+https://www.boe.es/legislacion/codigos/codigo.php?id=58&modo=1&nota=0&tab=2
+* NORMAS GENERALES
+    - Ley de Seguridad Privada
+    - Reglamento de Seguridad Privada
+* EMPRESAS DE SEGURIDAD
+    - Empresas de seguridad privada
+    - Modelos oficiales de los Libros-Registro
+* PERSONAL DE SEGURIDAD
+    - Reconocimiento de cualificaciones profesionales para el ejercicio de profesiones de seguridad
+    - Personal de seguridad privada
+    - Constitución de la Comisión de valoración del profesorado de los centros de formación
+    - Programas de formación del personal de seguridad privada
+    - Modelos de licencias, autorizaciones, tarjetas y guías de pertenencia para documentar armas
+    - Normas de formación de vigilantes de seguridad privada encargados de seguridad en buques
+    - Desarrollo del Real Decreto que modifica los Reglamentos de Seguridad Privada y Armas
+    - Acreditación de la aptitud psicofísica necesaria para tener y usar armas
+    - Armas de fuego a utilizar por Guardas particulares del Campo en funciones de vigilancia
+    - Modelos de informes de aptitud psicofísica necesaria para tener y usar armas
+    - Instrucciones para la realización de ejercicios de tiro del personal de seguridad privada
+    - Servicios esenciales en situaciones de huelga
+    - Comisión valoración del profesorado de centros de formación guardas rurales
+* MEDIDAS DE SEGURIDAD
+    - Funcionamiento de los sistemas de alarma en el ámbito de la seguridad privada
+    - Medidas de seguridad privada
+* COMISIONES MIXTAS DE COORDINACIÓN
+    - Comisiones Mixtas de Coordinación de la Seguridad Privada
+
 
 
 # **Seguridad física**.
@@ -75,15 +109,53 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * https://boe.es/buscar/act.php?id=BOE-A-1882-6036
 * https://boe.es/buscar/pdf/1882/BOE-A-1882-6036-consolidado.pdf
 
+### Código de Seguridad Ciudadana
+* https://www.boe.es/legislacion/codigos/codigo.php?id=100
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=100_Codigo_de_Seguridad_Ciudadana.pdf
+
+#### Código de Seguridad Ciudadana
+* https://www.boe.es/legislacion/codigos/codigo.php?id=100&modo=1&nota=0&tab=2
+NORMAS GENERALES.
+    - Constitución Española (parcial)
+    - Ley Orgánica de protección de la seguridad ciudadana
+    - Ley Orgánica de los estados de alarma, excepción y sitio
+    - Ley Orgánica de Fuerzas y Cuerpos de Seguridad
+NORMAS COMPLEMENTARIAS
+* ARMAS Y EXPLOSIVOS
+    - Reglamento de Armas (parcial)
+    - Reglamento de Explosivos (parcial)
+* ESPECTÁCULOS PÚBLICOS Y ACTIVIDADES RECREATIVAS
+    - Reglamento General de Policía de Espectáculos Públicos y Actividades Recreativas (parcial)
+    - Ley contra la violencia, el racismo, la xenofobia y la intolerancia en el deporte
+    - Reglamento de prevención de la violencia, el racismo y la xenofobia en el deporte
+* DOCUMENTACIÓN E IDENTIFICACIÓN PROFESIONAL
+    - Expedición del documento nacional de identidad y sus certificados de firma electrónica
+    - Expedición del pasaporte ordinario y se determinan sus características
+* ACTIVIDADES RELEVANTES PARA LA SEGURIDAD CIUDADANA
+    - Control de los establecimientos dedicados al desguace de vehículos a motor
+    - Reglamento de la Ley de objetos fabricados con metales preciosos (parcial)
+    - Tráfico de embarcaciones especiales de alta velocidad en las aguas marítimas españolas
+    - Ley de control de precursores de drogas
+    - Reglamento de control de precursores de drogas
+* MEDIDAS DE SEGURIDAD EN ESTABLECIMIENTOS E INSTALACIONES
+    - Reglamento de Seguridad Privada (parcial)
+* MANTENIMIENTO Y RESTABLECIMIENTO DE LA SEGURIDAD CIUDADANA
+    - Ley Orgánica reguladora del derecho de reunión (parcial)
+    - Ley Orgánica reguladora de la utilización de videocámaras en lugares públicos
+
+### Código Penal y legislación complementaria
+* https://www.boe.es/legislacion/codigos/codigo.php?id=38
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=038_Codigo_Penal_y_legislacion_complementaria.pdf
+* https://www.boe.es/legislacion/codigos/codigo.php?id=38&modo=1&nota=0&tab=2
 
 # **Seguridad lógica**.
 
 ### Código de Derecho de la Ciberseguridad
-https://www.boe.es/legislacion/codigos/codigo.php?id=173_Codigo_de_Derecho__de_la_Ciberseguridad
-https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=173_Codigo_de_Derecho_de_la_Ciberseguridad.pdf
+* https://www.boe.es/legislacion/codigos/codigo.php?id=173_Codigo_de_Derecho__de_la_Ciberseguridad
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=173_Codigo_de_Derecho_de_la_Ciberseguridad.pdf
 
 #### Código de Derecho de la Ciberseguridad
-https://www.boe.es/legislacion/codigos/codigo.php?id=173&modo=1&nota=0&tab=2
+* https://www.boe.es/legislacion/codigos/codigo.php?id=173&modo=1&nota=0&tab=2
 
 * NORMATIVA DE SEGURIDAD NACIONAL
     - Ley de Seguridad Nacional
@@ -176,7 +248,20 @@ https://www.boe.es/legislacion/codigos/codigo.php?id=173&modo=1&nota=0&tab=2
 * Seguridad de personas.
 * Seguridad contra incendios.
 * Seguridad Patrimonial
-* Protección de datos de carácter personal.
+
+# Protección de datos de carácter personal.
+
+### Protección de Datos de Carácter Personal
+* https://www.boe.es/legislacion/codigos/codigo.php?id=055_Proteccion_de_Datos_de_Caracter_Personal
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=055_Proteccion_de_Datos_de_Caracter_Personal.pdf
+
+### Código del Derecho al Olvido
+* https://www.boe.es/legislacion/codigos/codigo.php?id=094_Codigo_del_Derecho_al_Olvido
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=094_Codigo_del_Derecho_al_Olvido.pdf
+
+
+# 
+
 * Protección civil.
 * Fenomenología delincuencial.
 * Deontología profesional.
