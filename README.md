@@ -26,7 +26,7 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 
 # DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD:
 
-# * Normativa de seguridad privada.
+# **Normativa de seguridad privada**.
 
 ### Legislación consolidada: Constitución. 
 * https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
@@ -39,16 +39,16 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 ### Unión Europea.
 * https://europa.eu/
 
-### Disposición derogada: Ley 23/1992, de 30 de julio, de Seguridad Privada
+### Disposición derogada: Ley 23/1992, de 30 de julio, de Seguridad Privada.
 * https://boe.es/buscar/act.php?id=BOE-A-1992-18489
 * https://www.boe.es/buscar/pdf/1992/BOE-A-1992-18489-consolidado.pdf
 
-### Ley 5/2014, de 4 de abril, de Seguridad Privada.
+### Ley 5/2014, de 4 de abril, de **Seguridad Privada**.
 * https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
 * https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
 
 
-# * Seguridad física.
+# **Seguridad física**.
 
 ### Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana.
 * https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442
@@ -76,7 +76,74 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * https://boe.es/buscar/pdf/1882/BOE-A-1882-6036-consolidado.pdf
 
 
-# * Seguridad lógica.
+# **Seguridad lógica**.
+
+### Código de Derecho de la Ciberseguridad
+https://www.boe.es/legislacion/codigos/codigo.php?id=173_Codigo_de_Derecho__de_la_Ciberseguridad
+https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=173_Codigo_de_Derecho_de_la_Ciberseguridad.pdf
+
+#### Código de Derecho de la Ciberseguridad
+https://www.boe.es/legislacion/codigos/codigo.php?id=173&modo=1&nota=0&tab=2
+
+* NORMATIVA DE SEGURIDAD NACIONAL
+    - Ley de Seguridad Nacional
+    - Consejo Nacional de Ciberseguridad
+    - Mecanismos para garantizar funcionamiento integrado Sistema de Seguridad Nacional
+    - Estrategia de Seguridad Nacional
+    - Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica
+    - Reglamento de Evaluación y Certificación de la Seguridad de las Tecnologías
+    - Comité de Seguridad de los Sistemas de Información de la Seguridad Social
+    - Comité de Seguridad de las Tecnologías de la Información
+    - Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica
+    - Seguridad de las redes y sistemas de información
+    - Ley reguladora del Centro Nacional de Inteligencia
+    - Control judicial previo del Centro Nacional de Inteligencia
+    - Ley sobre secretos oficiales
+    - Desarrollo de la Ley sobre Secretos Oficiales
+    - Ley Orgánica de los estados de alarma, excepción y sitio
+    - Ley de Secretos Empresariales
+    - Estrategia Nacional de Ciberseguridad 2019
+* INFRAESTRUCTURAS CRÍTICAS
+    - Medidas para la protección de las infraestructuras críticas
+    - Reglamento de protección de las infraestructuras críticas
+    - Planes de Seguridad del Operador y Planes de Protección Específicos
+* NORMATIVA DE SEGURIDAD
+    - Servicios Centrales y Periféricos de la Dirección General de la Policía (parcial)
+    - Ley Orgánica de protección de la seguridad ciudadana
+    - Ley de Seguridad Privada
+    - Reglamento de Seguridad Privada
+* EQUIPO DE RESPUESTA A INCIDENTES DE SEGURIDAD
+    - Ley de servicios de la sociedad de la información y de comercio electrónico (parcial)
+    - Centro Criptológico Nacional
+    - Organización básica de las Fuerzas Armadas (parcial)
+    - Desarrollo de la organización básica de las Fuerzas Armadas (parcial)
+    - Desarrollo de la organización básica del Estado Mayor de la Defensa (parcial)
+* TELECOMUNICACIONES Y USUARIOS
+    - Ley de servicios de la sociedad de la información y de comercio electrónico
+    - Medidas contra el tráfico no permitido y el tráfico irregular con fines fraudulentos
+    - Distintivo público de confianza en los servicios de la sociedad de la información
+    - Ley de acceso electrónico de los ciudadanos a los Servicios Públicos
+    - Desarrollo parcial de la Ley de acceso electrónico de los ciudadanos a los servicios públicos
+    - Ley de firma electrónica
+    - Expedición del documento nacional de identidad y sus certificados de firma electrónica
+    - Ley General de Telecomunicaciones
+    - Reglamento sobre el uso del dominio público radioeléctrico
+    - Protección del dominio público radioeléctrico
+    - Ley de conservación de datos relativos a comunicaciones electrónicas y redes públicas
+    - Formato de entrega datos conservados por los operadores
+* CIBERDELINCUENCIA
+    - Ley Orgánica del Código Penal (parcial)
+    - Ley Orgánica reguladora de la responsabilidad penal de los menores (parcial)
+    - Ley de Enjuiciamiento Criminal (parcial)
+* PROTECCIÓN DE DATOS
+    - Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales
+    - Reglamento de la Ley Orgánica de protección de datos de carácter personal
+    - Reglamento Europeo relativo a protección en el tratamiento de datos personales
+* RELACIONES CON LA ADMINISTRACIÓN
+    - Ley del Procedimiento Administrativo Común de las Administraciones Públicas (parcial)
+    - Ley de Régimen Jurídico del Sector Público (parcial)
+
+
 
 ### ISO/IEC 27000-series
 * https://es.wikipedia.org/wiki/ISO/IEC_27000-series
@@ -101,6 +168,8 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630
 * https://www.boe.es/buscar/pdf/2011/BOE-A-2011-7630-consolidado.pdf
 
+
+#
 
 * Seguridad en entidades de crédito.
 * Seguridad electrónica.
