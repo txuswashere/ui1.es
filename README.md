@@ -153,6 +153,11 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 
 # **Seguridad lógica**.
 
+### CERT
+* https://www.basquecybersecurity.eus
+* https://www.incibe.es/protege-tu-empresa/guias
+* https://www.incibe-cert.es/guias-y-estudios/guias
+
 ### Código de Derecho de la Ciberseguridad
 * https://www.boe.es/legislacion/codigos/codigo.php?id=173_Codigo_de_Derecho__de_la_Ciberseguridad
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=173_Codigo_de_Derecho_de_la_Ciberseguridad.pdf
@@ -225,6 +230,9 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 #### SOCIEDAD DIGITAL Y DERECHO
 * https://boe.es/publicaciones/biblioteca_juridica/publicacion.php?id=PUB-NT-2018-97_SOCIEDAD_DIGITAL_Y_DERECHO
 * https://boe.es/publicaciones/biblioteca_juridica/abrir_pdf.php?id=PUB-NT-2018-97
+
+
+
 
 ### ISO/IEC 27000-series
 * https://es.wikipedia.org/wiki/ISO/IEC_27000-series
