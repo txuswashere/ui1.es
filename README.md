@@ -115,12 +115,12 @@ https://www.boe.es/legislacion/codigos/codigo.php?id=58&modo=1&nota=0&tab=2
 
 #### Código de Seguridad Ciudadana
 * https://www.boe.es/legislacion/codigos/codigo.php?id=100&modo=1&nota=0&tab=2
-NORMAS GENERALES.
+* NORMAS GENERALES.
     - Constitución Española (parcial)
     - Ley Orgánica de protección de la seguridad ciudadana
     - Ley Orgánica de los estados de alarma, excepción y sitio
     - Ley Orgánica de Fuerzas y Cuerpos de Seguridad
-NORMAS COMPLEMENTARIAS
+* NORMAS COMPLEMENTARIAS
 * ARMAS Y EXPLOSIVOS
     - Reglamento de Armas (parcial)
     - Reglamento de Explosivos (parcial)
@@ -147,6 +147,9 @@ NORMAS COMPLEMENTARIAS
 * https://www.boe.es/legislacion/codigos/codigo.php?id=38
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=038_Codigo_Penal_y_legislacion_complementaria.pdf
 * https://www.boe.es/legislacion/codigos/codigo.php?id=38&modo=1&nota=0&tab=2
+
+
+
 
 # **Seguridad lógica**.
 
@@ -215,6 +218,9 @@ NORMAS COMPLEMENTARIAS
     - Ley del Procedimiento Administrativo Común de las Administraciones Públicas (parcial)
     - Ley de Régimen Jurídico del Sector Público (parcial)
 
+### Código de las Telecomunicaciones
+* https://www.boe.es/legislacion/codigos/codigo.php?id=110
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=110_Codigo_de_las_Telecomunicaciones.pdf
 
 
 ### ISO/IEC 27000-series
@@ -241,13 +247,31 @@ NORMAS COMPLEMENTARIAS
 * https://www.boe.es/buscar/pdf/2011/BOE-A-2011-7630-consolidado.pdf
 
 
-#
+# Seguridad en entidades de crédito.
+* https://es.wikipedia.org/wiki/PCI_DSS
+* https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 
-* Seguridad en entidades de crédito.
-* Seguridad electrónica.
-* Seguridad de personas.
-* Seguridad contra incendios.
-* Seguridad Patrimonial
+
+
+# Seguridad electrónica.
+
+### Reglamento electrotécnico para baja tensión e ITC
+* https://www.boe.es/legislacion/codigos/codigo.php?id=326_Reglamento_electrotecnico_para_baja_tension_e_ITC
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=326_Reglamento_electrotecnico_para_baja_tension_e_ITC.pdf
+
+
+
+# Seguridad de personas.
+*
+
+# Seguridad contra incendios.
+* 
+
+# Seguridad Patrimonial
+*
+
+
+
 
 # Protección de datos de carácter personal.
 
@@ -260,14 +284,50 @@ NORMAS COMPLEMENTARIAS
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=094_Codigo_del_Derecho_al_Olvido.pdf
 
 
-# 
+# Protección civil.
 
-* Protección civil.
-* Fenomenología delincuencial.
-* Deontología profesional.
-* Colaboración con la seguridad pública.
-* Análisis de riesgos.
-* Funcionamiento de los departamentos de seguridad.
-* Dirección de equipos humanos.
-* Gestión de recursos materiales
-* Gestión y dirección de actividades de seguridad privada.
+### Código de Protección Civil
+* https://www.boe.es/legislacion/codigos/codigo.php?id=174
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=174_Codigo_de_Proteccion_Civil.pdf
+
+
+
+# Fenomenología delincuencial.
+*
+
+# Deontología profesional.
+*
+
+
+
+# Colaboración con la seguridad pública.
+
+### Código de la Policía Local
+* https://www.boe.es/legislacion/codigos/codigo.php?id=119_Codigo_de_la_Policia_Local
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=119_Codigo_de_la_Policia_Local.pdf
+
+### Código de la Policía Nacional
+* https://www.boe.es/legislacion/codigos/codigo.php?id=018_Codigo_de_la_Policia_Nacional
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=018_Codigo_de_la_Policia_Nacional.pdf
+
+### Código de la Guardia Civil
+* https://www.boe.es/legislacion/codigos/codigo.php?id=007_Codigo_de_la_Guardia_Civil
+* https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=007_Codigo_de_la_Guardia_Civil.pdf
+
+
+
+
+# Análisis de riesgos.
+* 
+
+# Funcionamiento de los departamentos de seguridad.
+* 
+
+# Dirección de equipos humanos.
+* 
+
+# Gestión de recursos materiales
+* 
+
+# Gestión y dirección de actividades de seguridad privada.
+*
