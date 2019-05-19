@@ -222,6 +222,9 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * https://www.boe.es/legislacion/codigos/codigo.php?id=110
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=110_Codigo_de_las_Telecomunicaciones.pdf
 
+#### SOCIEDAD DIGITAL Y DERECHO
+* https://boe.es/publicaciones/biblioteca_juridica/publicacion.php?id=PUB-NT-2018-97_SOCIEDAD_DIGITAL_Y_DERECHO
+* https://boe.es/publicaciones/biblioteca_juridica/abrir_pdf.php?id=PUB-NT-2018-97
 
 ### ISO/IEC 27000-series
 * https://es.wikipedia.org/wiki/ISO/IEC_27000-series
