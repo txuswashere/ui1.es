@@ -294,6 +294,10 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * https://www.boe.es/legislacion/codigos/codigo.php?id=094_Codigo_del_Derecho_al_Olvido
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=094_Codigo_del_Derecho_al_Olvido.pdf
 
+#### EU Privacy Removal. Personal Information Removal Request Form 
+* https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf
+
+
 
 # Protección civil.
 
