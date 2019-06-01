@@ -262,6 +262,14 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * https://es.wikipedia.org/wiki/PCI_DSS
 * https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
 
+## Real Decreto 2364/1994, de 9 de diciembre, por el que se aprueba el Reglamento de Seguridad Privada.
+* https://www.boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
+
+## Ley 5/2014, de 4 de abril, de Seguridad Privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
+* https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+* http://www.interior.gob.es/web/servicios-al-ciudadano/normativa/leyes-ordinarias/ley-5/2014-de-4-de-abril
+
 
 
 # Seguridad electrónica.
@@ -285,6 +293,14 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 
 
 # Protección de datos de carácter personal.
+
+## Ley 5/2014, de 4 de abril, de Seguridad Privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
+* https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+
+### Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras.
+https://boe.es/buscar/doc.php?id=BOE-A-2006-21648
+
 
 ### Protección de Datos de Carácter Personal
 * https://www.boe.es/legislacion/codigos/codigo.php?id=055_Proteccion_de_Datos_de_Caracter_Personal
@@ -317,6 +333,19 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 
 # Colaboración con la seguridad pública.
 
+## Ley 5/2014, de 4 de abril, de Seguridad Privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
+* https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+
+## Real Decreto 2364/1994, de 9 de diciembre, por el que se aprueba el Reglamento de Seguridad Privada.
+https://www.boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
+
+# Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada.
+* https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3172
+* https://www.boe.es/boe/dias/2011/02/18/pdfs/BOE-A-2011-3172.pdf
+
+
+
 ### Código de la Policía Local
 * https://www.boe.es/legislacion/codigos/codigo.php?id=119_Codigo_de_la_Policia_Local
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=119_Codigo_de_la_Policia_Local.pdf
@@ -345,4 +374,17 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * 
 
 # Gestión y dirección de actividades de seguridad privada.
+
+## Real Decreto 2364/1994, de 9 de diciembre, por el que se aprueba el Reglamento de Seguridad Privada.
+* https://boe.es/buscar/doc.php?id=BOE-A-1995-608
+
+### Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada.
+* https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3172
+
+# Prevención de riesgos laborales.
 *
+
+# Planificación de la seguridad.
+*
+
+
