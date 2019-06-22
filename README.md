@@ -23,6 +23,45 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 * Gestión y dirección de actividades de seguridad privada.
 
 
+## Ley 5/2014, de 4 de abril, de Seguridad Privada. 
+https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
+https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+## CAPÍTULO II Funciones de seguridad privada:
+# Artículo 36. Directores de seguridad.
+
+1. En relación con la empresa o entidad en la que presten sus servicios, corresponde a los directores de seguridad el ejercicio de las siguientes funciones:
+
+a) La organización, dirección, inspección y administración de los servicios y recursos de seguridad privada disponibles.
+
+b) La identificación, análisis y evaluación de situaciones de riesgo que puedan afectar a la vida e integridad de las personas y al patrimonio.
+
+c) La planificación, organización y control de las actuaciones precisas para la implantación de las medidas conducentes a prevenir, proteger y reducir la manifestación de riesgos de cualquier naturaleza con medios y medidas precisas, mediante la elaboración y desarrollo de los planes de seguridad aplicables.
+
+d) El control del funcionamiento y mantenimiento de los sistemas de seguridad privada.
+
+e) La validación provisional, hasta la comprobación, en su caso, por parte de la Administración, de las medidas de seguridad en lo referente a su adecuación a la normativa de seguridad privada.
+
+f) La comprobación de que los sistemas de seguridad privada instalados y las empresas de seguridad privada contratadas, cumplen con las exigencias de homologación de los organismos competentes.
+
+g) La comunicación a las Fuerzas y Cuerpos de Seguridad competentes de las circunstancias o informaciones relevantes para la seguridad ciudadana, así como de los hechos delictivos de los que tenga conocimiento en el ejercicio de sus funciones.
+
+h) La interlocución y enlace con la Administración, especialmente con las Fuerzas y Cuerpos de Seguridad, respecto de la función de seguridad integral de la entidad, empresa o grupo empresarial que les tenga contratados, en relación con el cumplimiento normativo sobre gestión de todo tipo de riesgos.
+
+i) Las comprobaciones de los aspectos necesarios sobre el personal que, por el ejercicio de las funciones encomendadas, precise acceder a áreas o informaciones, para garantizar la protección efectiva de su entidad, empresa o grupo empresarial.
+
+2. Los usuarios de seguridad privada situarán al frente de la seguridad integral de la entidad, empresa o grupo empresarial a un director de seguridad cuando así lo exija la normativa de desarrollo de esta ley por la dimensión de su servicio de seguridad; cuando se acuerde por decisión gubernativa, en atención a las medidas de seguridad y al grado de concentración de riesgo, o cuando lo prevea una disposición especial.
+
+Lo dispuesto en este apartado es igualmente aplicable a las empresas de seguridad privada.
+
+3. En las empresas de seguridad el director de seguridad podrá compatibilizar sus funciones con las de jefe de seguridad.
+
+4. Cuando una empresa de seguridad preste servicio a un usuario que cuente con su propio director de seguridad, las funciones encomendadas a los jefes de seguridad en el artículo 35.1.a), b), c), y e) serán asumidas por dicho director de seguridad.
+
+5. El ejercicio de funciones podrá delegarse por los directores de seguridad en los términos que reglamentariamente se disponga.
+
+
+
+
 
 # DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD:
 
