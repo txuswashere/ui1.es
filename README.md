@@ -295,7 +295,32 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 
 
 # Seguridad contra incendios.
-* 
+### Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de protección contra incendios. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606
+* https://www.boe.es/buscar/pdf/2017/BOE-A-2017-6606-consolidado.pdf
+
+### Real Decreto 173/2010, de 19 de febrero, por el que se modifica el Código Técnico de la Edificación, aprobado por el Real Decreto 314/2006, de 17 de marzo, en materia de accesibilidad y no discriminación de las personas con discapacidad.
+* https://boe.es/buscar/doc.php?id=BOE-A-2010-4056
+* https://boe.es/boe/dias/2010/03/11/pdfs/BOE-A-2010-4056.pdf
+
+### Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación. 
+* https://boe.es/buscar/act.php?id=BOE-A-2006-5515
+* https://boe.es/buscar/pdf/2006/BOE-A-2006-5515-consolidado.pdf
+
+### Real Decreto 2267/2004, de 3 de diciembre, por el que se aprueba el Reglamento  de  seguridad  contra  incendios  en  los  establecimientos industriales
+* https://www.boe.es/buscar/act.php?id=BOE-A-2004-21216
+* https://www.boe.es/buscar/pdf/2004/BOE-A-2004-21216-consolidado.pdf
+
+### Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292
+* https://www.boe.es/buscar/pdf/1995/BOE-A-1995-24292-consolidado.pdf
+
+### Real Decreto 485/1997, de 14 de abril, sobre disposiciones mínimas en materia de señalización de seguridad y salud en el trabajo. 
+* https://boe.es/buscar/act.php?id=BOE-A-1997-8668
+* https://boe.es/buscar/pdf/1997/BOE-A-1997-8668-consolidado.pdf
+
+
+ 
 
 # Seguridad Patrimonial
 *
