@@ -366,8 +366,22 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
  
 
 # Seguridad Patrimonial
-*
 
+### Orden INT/317/2011, de 1 de febrero, sobre medidas de seguridad privada
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3172
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3172-consolidado.pdf
+
+### Ley 16/1985, de 25 de junio, del Patrimonio Histórico
+* https://www.boe.es/buscar/act.php?id=BOE-A-1985-12534
+* https://www.boe.es/buscar/pdf/1985/BOE-A-1985-12534-consolidado.pdf
+
+## Ley 8/2011, de 28 de abril, por la que se establecen medidas para la protección de las infraestructuras críticas. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-7630-consolidado.pdf
+
+### Directiva 2008/114/CE del Consejo, de 8 de diciembre de 2008, sobre la identificación y designación de infraestructuras críticas europeas y la evaluación de la necesidad de mejorar su protección.
+* https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82589
+* https://www.boe.es/doue/2008/345/L00075-00082.pdf
 
 
 
