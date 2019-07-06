@@ -197,6 +197,10 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 * https://www.incibe.es/protege-tu-empresa/guias
 * https://www.incibe-cert.es/guias-y-estudios/guias
 
+### Real Decreto-ley 12/2018, de 7 de septiembre, de seguridad de las redes y sistemas de información.
+* https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12257
+* https://www.boe.es/boe/dias/2018/09/08/pdfs/BOE-A-2018-12257.pdf
+
 ### Código de Derecho de la Ciberseguridad
 * https://www.boe.es/legislacion/codigos/codigo.php?id=173_Codigo_de_Derecho__de_la_Ciberseguridad
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=173_Codigo_de_Derecho_de_la_Ciberseguridad.pdf
