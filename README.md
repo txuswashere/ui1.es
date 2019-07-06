@@ -392,6 +392,15 @@ https://boe.es/buscar/doc.php?id=BOE-A-2006-21648
 
 # Protección civil.
 
+### Real Decreto 407/1992, de 24 de abril, por el que se aprueba la Norma Básica de Protección Civil.  
+* https://www.boe.es/buscar/act.php?id=BOE-A-1992-9364
+* https://www.boe.es/buscar/pdf/1992/BOE-A-1992-9364-consolidado.pdf
+
+## Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2015-7730
+* https://www.boe.es/buscar/pdf/2015/BOE-A-2015-7730-consolidado.pdf
+
+
 ### Código de Protección Civil
 * https://www.boe.es/legislacion/codigos/codigo.php?id=174
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=174_Codigo_de_Proteccion_Civil.pdf
