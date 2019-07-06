@@ -24,8 +24,8 @@ MÁSTER EN DIRECCIÓN Y GESTIÓN DE SEGURIDAD – DIRECTOR DE SEGURIDAD, capacit
 
 
 ## Ley 5/2014, de 4 de abril, de Seguridad Privada. 
-https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
-https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
+* https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
 ## CAPÍTULO II Funciones de seguridad privada:
 # Artículo 36. Directores de seguridad.
 
