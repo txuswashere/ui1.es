@@ -119,6 +119,8 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 * COMISIONES MIXTAS DE COORDINACIÓN
     - Comisiones Mixtas de Coordinación de la Seguridad Privada
 
+## Ministerio fiscal
+* https://www.fiscal.es/
 
 
 # **Seguridad física**.
@@ -435,8 +437,8 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 * https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
 * https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
 
-### Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras.
-https://boe.es/buscar/doc.php?id=BOE-A-2006-21648
+### Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras. 
+* https://boe.es/buscar/doc.php?id=BOE-A-2006-21648
 
 
 ### Protección de Datos de Carácter Personal
@@ -454,6 +456,9 @@ https://boe.es/buscar/doc.php?id=BOE-A-2006-21648
 
 # Protección civil.
 
+
+* http://www.proteccioncivil.es/autoproteccion/presentacion
+
 ### Real Decreto 407/1992, de 24 de abril, por el que se aprueba la Norma Básica de Protección Civil.  
 * https://www.boe.es/buscar/act.php?id=BOE-A-1992-9364
 * https://www.boe.es/buscar/pdf/1992/BOE-A-1992-9364-consolidado.pdf
@@ -470,7 +475,14 @@ https://boe.es/buscar/doc.php?id=BOE-A-2006-21648
 
 
 # Fenomenología delincuencial.
-*
+
+ ### INTERPOL. The International Criminal Police Organization
+* https://www.interpol.int
+
+## OSINT
+* https://ciberpatrulla.com
+* https://osintframework.com/
+
 
 # Deontología profesional.
 *
@@ -527,8 +539,37 @@ https://www.boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
 ### Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada.
 * https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3172
 
+
 # Prevención de riesgos laborales.
-*
+
+### Seguridad y Salud en el Trabajo
+* https://www.insst.es/
+
+## Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292
+* https://www.boe.es/buscar/pdf/1995/BOE-A-1995-24292-consolidado.pdf
+* http://noticias.juridicas.com/base_datos/Laboral/l31-1995.html
+
+### Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de Autoprotección de los centros, establecimientos y dependencias dedicados a actividades que puedan dar origen a situaciones de emergencia. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2007-6237
+* https://www.boe.es/buscar/pdf/2007/BOE-A-2007-6237-consolidado.pdf
+
+
+
+## La Norma Vasca de Autoprotección (Decreto 277/2010, de 2 de noviembre, modificado por el Decreto 21/2019
+* http://www.euskadi.eus/autoproteccion/web01-a2babesa/es/
+
+
+## DECRETO 21/2019, de 12 de febrero, de segunda modificación del Decreto por el que se regulan las obligaciones de autoprotección exigibles a determinadas actividades, centros o establecimientos para hacer frente a situaciones de emergencia. 
+* http://www.euskadi.eus/gobierno-vasco/-/eli/es-pv/d/2019/02/12/21/dof/spa/html/
+* http://www.euskadi.eus/bopv2/datos/2019/02/1900955a.pdf
+
+
+### Decreto 277/2010, de 2 de noviembre, por el que se regulan las obligaciones de autoprotección exigibles a determinadas actividades, centros o establecimientos para hacer frente a situaciones de emergencia
+* http://noticias.juridicas.com/base_datos/CCAA/pv-d277-2010.html
+
+
+
 
 # Planificación de la seguridad.
 *
