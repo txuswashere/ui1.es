@@ -197,6 +197,46 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 * https://www.incibe.es/protege-tu-empresa/guias
 * https://www.incibe-cert.es/guias-y-estudios/guias
 
+## Mando Conjunto de Ciberdefensa (MCCD) 
+* http://www.emad.mde.es/CIBERDEFENSA/
+
+## Centro de Sistemas y Tecnologías de la Información y las Comunicaciones 
+* http://www.defensa.gob.es/ministerio/organigrama/sedef/cestic/
+
+## Armada. Jefatura de Servicios Generales, Asistencia Técnica y Sistemas de la Información y Telecomunicaciones (JESACIS)
+* http://www.armada.mde.es/ArmadaPortal/page/Portal/ArmadaEspannola/conocenosorganizacion/prefLang-es/02cuartelgeneral#JESACIS
+
+## Ejército de tierra. Jefatura de los Sistemas de Información, Telecomunicaciones y Asistencia Técnica
+* http://www.ejercito.mde.es/estructura/2019/jcisat.html
+
+## Ejército del Aire
+* http://www.ejercitodelaire.mde.es/EA/ejercitodelaire/es/organizacion/organigrama/
+
+## INCIBE
+* https://www.incibe.es/
+* https://www.incibe-cert.es/
+* https://www.is4k.es/programas/cibercooperantes
+* https://www.osi.es/
+* https://www.cci-es.org/
+
+## CCN-CERT
+* https://www.ccn-cert.cni.es/
+
+## Computer Security Incident Response Team (Centro de respuesta a incidentes)
+* https://www.csirt.es/
+
+## Centro de Protección de Infraestructuras y Ciberseguridad
+* http://www.cnpic.es/
+
+## Guardia Civil Grupo de Delitos Telemáticos. Unidad Central Operativa
+* https://www.gdt.guardiacivil.es/webgdt/home_alerta.php
+
+## Brigada de Investigación tecnológica
+* https://www.policia.es/org_central/judicial/udef/bit_contactar.html
+
+
+
+
 ### Real Decreto-ley 12/2018, de 7 de septiembre, de seguridad de las redes y sistemas de información.
 * https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12257
 * https://www.boe.es/boe/dias/2018/09/08/pdfs/BOE-A-2018-12257.pdf
@@ -386,6 +426,10 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 
 
 # Protección de datos de carácter personal.
+
+### Guías generales RGPD
+* https://www.aepd.es/media/guias/
+* https://edpb.europa.eu/
 
 ## Ley 5/2014, de 4 de abril, de Seguridad Privada.
 * https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
