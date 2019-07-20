@@ -544,6 +544,7 @@ https://www.boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
 
 ### Seguridad y Salud en el Trabajo
 * https://www.insst.es/
+* http://www.osalan.euskadi.eus
 
 ## Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales. 
 * https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292
