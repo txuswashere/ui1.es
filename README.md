@@ -363,6 +363,16 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 * https://www.boe.es/legislacion/codigos/codigo.php?id=326_Reglamento_electrotecnico_para_baja_tension_e_ITC
 * https://www.boe.es/legislacion/codigos/abrir_pdf.php?fich=326_Reglamento_electrotecnico_para_baja_tension_e_ITC.pdf
 
+#### Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099
+* https://www.boe.es/buscar/pdf/2002/BOE-A-2002-18099-consolidado.pdf
+* http://noticias.juridicas.com/base_datos/Admin/rd842-2002.html
+
+#### Real Decreto 614/2001, de 8 de junio, sobre disposiciones mínimas para la protección de la salud y seguridad de los trabajadores frente al riesgo eléctrico.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2001-11881
+* https://boe.es/buscar/pdf/2001/BOE-A-2001-11881-consolidado.pdf
+* http://noticias.juridicas.com/base_datos/Laboral/rd614-2001.html
+
 
 
 # Seguridad de personas.
@@ -520,7 +530,40 @@ https://www.boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
 
 
 # Análisis de riesgos.
-* 
+
+### Real Decreto 488/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visualización. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-1997-8671
+* https://www.boe.es/buscar/pdf/1997/BOE-A-1997-8671-consolidado.pdf
+* http://noticias.juridicas.com/base_datos/Laboral/rd488-1997.html
+
+### Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-1997-8669
+* https://www.boe.es/buscar/pdf/1997/BOE-A-1997-8669-consolidado.pdf
+
+
+## Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales.
+* https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292
+* https://www.boe.es/buscar/pdf/1995/BOE-A-1995-24292-consolidado.pdf
+* http://noticias.juridicas.com/base_datos/Laboral/l31-1995.html
+
+## Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de Autoprotección de los centros, establecimientos y dependencias dedicados a actividades que puedan dar origen a situaciones de emergencia.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2007-6237
+* https://www.boe.es/buscar/pdf/2007/BOE-A-2007-6237-consolidado.pdf
+
+
+
+### Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853
+* https://www.boe.es/buscar/pdf/1997/BOE-A-1997-1853-consolidado.pdf
+* http://noticias.juridicas.com/base_datos/Laboral/rd39-1997.html
+
+#### Real Decreto Legislativo 5/2000, de 4 de agosto, por el que se aprueba el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social. 
+* https://boe.es/buscar/act.php?id=BOE-A-2000-15060
+* https://boe.es/buscar/pdf/2000/BOE-A-2000-15060-consolidado.pdf
+* http://noticias.juridicas.com/base_datos/Laboral/rdleg5-2000.html
+
+
+
 
 # Funcionamiento de los departamentos de seguridad.
 * 
