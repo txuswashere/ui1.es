@@ -496,7 +496,56 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 
 
 # Deontología profesional.
-*
+
+## Declaración Universal de Derechos Humanos 
+* https://www.un.org/es/universal-declaration-human-rights/
+* https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/spn.pdf
+* https://www.es.amnesty.org/en-que-estamos/temas/derechos-humanos/declaracion-universal-derechos-humanos/
+
+
+
+## Ley 5/2014, de 4 de abril, de Seguridad Privada. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=2
+
+#### CAPÍTULO II. Competencias de la Administración General del Estado y de las comunidades autónomas
+### TÍTULO I Coordinación
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1#ti
+
+## Artículo 14. Colaboración profesional.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1#a14
+
+## Artículo 15. Acceso a la información por las Fuerzas y Cuerpos de Seguridad.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1#a15
+
+## Artículo 16. Coordinación y participación.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1#a16
+
+
+
+#### TÍTULO III. Personal de seguridad privada
+### CAPÍTULO I. Disposiciones comunes
+## Artículo 30. Principios de actuación.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1#a30
+
+Además de lo establecido en el artículo 8 (Principios rectores https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1#a8), el personal de seguridad privada se atendrá en sus actuaciones a los siguientes principios básicos:
+
+a) Legalidad.
+
+b) Integridad.
+
+c) Dignidad en el ejercicio de sus funciones.
+
+d) Corrección en el trato con los ciudadanos.
+
+e) Congruencia, aplicando medidas de seguridad y de investigación proporcionadas y adecuadas a los riesgos.
+
+f) Proporcionalidad en el uso de las técnicas y medios de defensa y de investigación.
+
+g) Reserva profesional sobre los hechos que conozca en el ejercicio de sus funciones.
+
+h) Colaboración con las Fuerzas y Cuerpos de Seguridad. El personal de seguridad privada estará obligado a auxiliar y colaborar especialmente con las Fuerzas y Cuerpos de Seguridad, a facilitarles la información que resulte necesaria para el ejercicio de sus funciones, y a seguir sus instrucciones en relación con el servicio de seguridad privada que estuvieren prestando.
+
+
 
 
 
