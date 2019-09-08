@@ -80,6 +80,10 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 ### Unión Europea.
 * https://europa.eu/
 
+## Departamento de Seguridad
+* http://www.euskadi.eus/gobierno-vasco/departamento-seguridad/
+
+
 ### Disposición derogada: Ley 23/1992, de 30 de julio, de Seguridad Privada.
 * https://boe.es/buscar/act.php?id=BOE-A-1992-18489
 * https://www.boe.es/buscar/pdf/1992/BOE-A-1992-18489-consolidado.pdf
