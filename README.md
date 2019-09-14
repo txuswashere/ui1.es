@@ -620,7 +620,58 @@ https://www.boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
 
 
 # Funcionamiento de los departamentos de seguridad.
-* 
+#### Disposición derogada: Ley 23/1992, de 30 de julio, de Seguridad Privada.
+* https://boe.es/buscar/act.php?id=BOE-A-1992-18489
+* https://www.boe.es/buscar/pdf/1992/BOE-A-1992-18489-consolidado.pdf
+
+### Real Decreto 2364/1994, de 9 de diciembre, por el que se aprueba el Reglamento de Seguridad Privada. 
+* https://boe.es/buscar/act.php?id=BOE-A-1995-608&p=20140405
+* https://boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
+
+## Ley 5/2014, de 4 de abril, de Seguridad Privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
+* https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+
+
+
+
+### Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442
+* https://www.boe.es/buscar/pdf/2015/BOE-A-2015-3442-consolidado.pdf
+
+### Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+* https://boe.es/buscar/act.php?id=BOE-A-1986-6859
+* https://boe.es/buscar/pdf/1986/BOE-A-1986-6859-consolidado.pdf
+
+
+### Orden INT/314/2011, de 1 de febrero, sobre empresas de seguridad privada. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3168
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3168-consolidado.pdf
+
+### Orden  INT/315/2011,  de  1  de  febrero,  por  la  que  se  regulan  las Comisiones Mixtas de Coordinación de la Seguridad Privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3169
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3169-consolidado.pdf
+
+### Orden INT/316/2011, de 1 de febrero, sobre funcionamiento de los sistemas de alarma en el ámbito de la seguridad privada. 
+* https://boe.es/buscar/act.php?id=BOE-A-2011-3170
+* https://boe.es/buscar/pdf/2011/BOE-A-2011-3170-consolidado.pdf
+
+### Orden INT/317/2011, de 1 de febrero, sobre medidas de seguridad privada. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3171
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3171-consolidado.pdf
+
+### Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3172
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3172-consolidado.pdf
+
+### Orden INT/2850/2011, de 11 de octubre, por la que se regula el reconocimiento de las cualificaciones profesionales para el ejercicio de las profesiones y actividades relativas al sector de seguridad privada a los nacionales de los Estados miembros de la Unión Europea. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-16595
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-16595-consolidado.pdf
+
+#### Resolución de 12 de noviembre de 2012, de la Secretaría de Estado de Seguridad, por la que se determinan los programas de formación del personal de seguridad privada. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2012-14947
+* https://www.boe.es/buscar/pdf/2012/BOE-A-2012-14947-consolidado.pdf
+
 
 # Dirección de equipos humanos.
 * 
