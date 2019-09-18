@@ -591,6 +591,14 @@ https://www.dsn.gob.es/es/estrategias-publicaciones/documentos-relacionados-con-
 
 
 ## Cuerpos Policiales y Seguridad Privada:
+### Orden INT/315/2011, de 1 de febrero, por la que se regulan las Comisiones Mixtas de Coordinación de la Seguridad Privada. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3169
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3169-consolidado.pdf
+
+## DECRETO 382/2013, de 9 de julio, de la Comisión Mixta de Coordinación de la Seguridad Privada de Euskadi.
+* https://www.euskadi.eus/y22-bopv/es/bopv2/datos/2013/07/1303316a.shtml
+* http://www.euskadi.eus/eli/es-pv/d/2013/07/09/382/dof/spa/html/web01-a2libzer/es/
+* http://www.euskadi.eus/bopv2/datos/2013/07/1303316a.pdf
 
 
 
