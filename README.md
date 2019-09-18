@@ -244,9 +244,10 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 
 
 
+
 ### Real Decreto-ley 12/2018, de 7 de septiembre, de seguridad de las redes y sistemas de información.
-* https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12257
-* https://www.boe.es/boe/dias/2018/09/08/pdfs/BOE-A-2018-12257.pdf
+* https://www.boe.es/buscar/act.php?id=BOE-A-2018-12257
+* https://www.boe.es/buscar/pdf/2018/BOE-A-2018-12257-consolidado.pdf
 
 ### Código de Derecho de la Ciberseguridad
 * https://www.boe.es/legislacion/codigos/codigo.php?id=173_Codigo_de_Derecho__de_la_Ciberseguridad
@@ -532,21 +533,13 @@ Lo dispuesto en este apartado es igualmente aplicable a las empresas de segurida
 * https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1#a30
 
 Además de lo establecido en el artículo 8 (Principios rectores https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649&p=20140405&tn=1#a8), el personal de seguridad privada se atendrá en sus actuaciones a los siguientes principios básicos:
-
 a) Legalidad.
-
 b) Integridad.
-
 c) Dignidad en el ejercicio de sus funciones.
-
 d) Corrección en el trato con los ciudadanos.
-
 e) Congruencia, aplicando medidas de seguridad y de investigación proporcionadas y adecuadas a los riesgos.
-
 f) Proporcionalidad en el uso de las técnicas y medios de defensa y de investigación.
-
 g) Reserva profesional sobre los hechos que conozca en el ejercicio de sus funciones.
-
 h) Colaboración con las Fuerzas y Cuerpos de Seguridad. El personal de seguridad privada estará obligado a auxiliar y colaborar especialmente con las Fuerzas y Cuerpos de Seguridad, a facilitarles la información que resulte necesaria para el ejercicio de sus funciones, y a seguir sus instrucciones en relación con el servicio de seguridad privada que estuvieren prestando.
 
 
@@ -555,16 +548,50 @@ h) Colaboración con las Fuerzas y Cuerpos de Seguridad. El personal de segurida
 
 # Colaboración con la seguridad pública.
 
-## Ley 5/2014, de 4 de abril, de Seguridad Privada.
+## Ley 5/2014, de 4 de abril, de Seguridad Privada. (LSP).
 * https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
 * https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
 
-## Real Decreto 2364/1994, de 9 de diciembre, por el que se aprueba el Reglamento de Seguridad Privada.
+## Real Decreto 2364/1994, de 9 de diciembre, por el que se aprueba el Reglamento de Seguridad Privada. (RSP).
 https://www.boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
 
 # Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada.
 * https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3172
 * https://www.boe.es/boe/dias/2011/02/18/pdfs/BOE-A-2011-3172.pdf
+
+
+
+
+
+#### Documentos relacionados con la Seguridad Nacional
+https://www.dsn.gob.es/es/estrategias-publicaciones/documentos-relacionados-con-seguridad-nacional
+
+
+
+## Modelo Policial:
+### Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859
+* https://boe.es/buscar/pdf/1986/BOE-A-1986-6859-consolidado.pdf
+
+
+
+## Actuación de la seguridad privada:
+### Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana. (PSC).
+* https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442
+* https://www.boe.es/buscar/pdf/2015/BOE-A-2015-3442-consolidado.pdf
+
+### Orden INT/318/2011, de 1 de febrero, sobre Personal de Seguridad Privada. (PSP).
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3172
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3172-consolidado.pdf
+
+## DECRETO 207/2014, de 21 de octubre, de regulación del ejercicio de competencias de la Comunidad Autónoma de Euskadi en materia de seguridad privada. 
+* https://www.euskadi.eus/eli/es-pv/d/2014/10/21/207/dof/spa/html/x59-preview/es/
+* http://www.euskadi.eus/bopv2/datos/2014/10/1404641a.pdf
+
+
+
+## Cuerpos Policiales y Seguridad Privada:
+
 
 
 
