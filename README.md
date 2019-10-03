@@ -708,11 +708,29 @@ https://www.dsn.gob.es/es/estrategias-publicaciones/documentos-relacionados-con-
 * https://www.boe.es/buscar/pdf/2012/BOE-A-2012-14947-consolidado.pdf
 
 
+
 # Dirección de equipos humanos.
-* 
+### Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores. 
+* https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
+* https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf
+
+
 
 # Gestión de recursos materiales
-* 
+#### Ley 5/2014, de 4 de abril, de Seguridad Privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2014-3649
+* https://www.boe.es/buscar/pdf/2014/BOE-A-2014-3649-consolidado.pdf
+
+#### Real Decreto 2364/1994, de 9 de diciembre, por el que se aprueba el Reglamento de Seguridad Privada.
+* https://boe.es/buscar/doc.php?id=BOE-A-1995-608
+* https://www.boe.es/buscar/pdf/1995/BOE-A-1995-608-consolidado.pdf
+
+### Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3172
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3172-consolidado.pdf
+
+
+
 
 # Gestión y dirección de actividades de seguridad privada.
 
