@@ -774,6 +774,25 @@ https://www.dsn.gob.es/es/estrategias-publicaciones/documentos-relacionados-con-
 
 
 # Planificación de la seguridad.
-*
+### Orden INT/314/2011, de 1 de febrero, sobre empresas de seguridad privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3168
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3168-consolidado.pdf
+
+### Orden INT/315/2011, de 1 de febrero, por la que se regulan las Comisiones Mixtas de Coordinación de la Seguridad Privada.
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3169
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3169-consolidado.pdf
+
+### Orden INT/316/2011, de 1 de febrero, sobre funcionamiento de los sistemas de alarma en el ámbito de la seguridad privada.
+* https://boe.es/buscar/act.php?id=BOE-A-2011-3170
+* https://boe.es/buscar/pdf/2011/BOE-A-2011-3170-consolidado.pdf
+
+### Orden INT/317/2011, de 1 de febrero, sobre medidas de seguridad privada
+* https://www.boe.es/buscar/act.php?id=BOE-A-2011-3172
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3172-consolidado.pdf
+
+### Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada.
+* https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3172
+* https://www.boe.es/buscar/pdf/2011/BOE-A-2011-3172-consolidado.pdf
+
 
 
